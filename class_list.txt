@@ -1,0 +1,9 @@
+n_edge
+b_edge
+i_edge
+burr
+broken
+n_bubble
+b_bubble
+airBubble
+etc
